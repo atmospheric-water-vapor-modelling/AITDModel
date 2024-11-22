@@ -1,8 +1,10 @@
 # AITDModel
 Augmented Iterative Tropospheric  Decomposition Model
 
-Contact: xiangyang.song@polimi.it
+This software is implemented in MATLAB R2022a for high-resolution atmospheric water vapor generation. 
 
-This software is implemented in MATLAB R2022a.
+Two experiments and validations have been done in Italy and Sweden. See the details from the paper <<Augmented Iterative Tropospheric Decomposition Strategy for GNSS-based Atmospheric Water Vapor Map Generation>> later......
 
-See the app.m file firstly, please.
+To use this software, see the 'app.m' file firstly, please.
+
+If you have any questions, contact with xiangyang.song@polimi.it please.
