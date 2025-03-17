@@ -1,4 +1,4 @@
-# AITDModel
+# AITDSoftware
 Augmented Iterative Tropospheric  Decomposition Model
 
 This software is implemented in MATLAB R2022a for high-resolution atmospheric water vapor generation. 
