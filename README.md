@@ -5,8 +5,8 @@ This software is implemented in MATLAB R2022a for high-resolution atmospheric wa
 
 To use this software, check the 'app.m'.
 
-If you have any questions, please contact with xiangyang.song@mail.polimi.it
+If you have any questions, please contact with xiangyang.song@mail.polimi.it; xiangyang.song@polimi.it
 
 The details of this model you can find in the paper: 
 
-It is under review......
+It was accepted for publication, coming soon...
